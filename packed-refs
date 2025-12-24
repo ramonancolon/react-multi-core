@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+05da0aa30ce746513913715f71291a339a77edcc refs/heads/main
+b9a9b1b8f75007e201241324d31a328f00df87ea refs/heads/rsc_spa
+416c35e26750e596afbcf26f877520d17f3c2ac3 refs/heads/rsc_template_cleanup
